@@ -11,7 +11,7 @@
   
 #### 🛠 Skills 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,c,cpp,processing,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,c,cpp,processing,py,cs)](https://skillicons.dev)
   
 ### Connect with me
 
