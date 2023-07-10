@@ -6,7 +6,7 @@
     <br /> -->
   
   <samp> İsmail Can Durak </samp> <br />
-    <samp> Frontend Developer | Computer Science Student </samp> <br />
+    <samp> FullStack Development | Computer Science Student </samp> <br />
     <samp></samp>
   
 #### 🛠 Skills 🛠
