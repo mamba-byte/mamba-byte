@@ -11,12 +11,14 @@
   
 #### 🛠 Skills 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,processing,py,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,c,cpp,py)](https://skillicons.dev)
   
 ### Connect with me
 
 [![Github Badge](https://img.shields.io/badge/-Github-FFE4C4?style=quare&labelColor=FFE4C4&logo=Github&logoColor=white&link=link)](https://github.com/mamba-byte) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-DCDCDC?style=flat-quare&labelColor=DCDCDC&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/ismail-can-durak-6a6814175/)
+[![Website](https://img.shields.io/website)](https://linktr.ee/ismailcandurak)
+
 
 <a href="https://github.com/mamba-byte/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=mamba-byte&color=9A8181">
